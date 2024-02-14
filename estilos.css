@@ -1,0 +1,30 @@
+*{
+margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-02/Lionel%20Messi%20Sergio%20Romero%20Argentina%20Juegos%20Olimpicos%202008%20Olympics%20021124%20%281%29.jpg?itok=h-HSqtZK);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+font-size: xx-large;
+font-style: initial;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em%;
+    }
+
+    #okBtn{
+        transform: translate(-100%,0)
+        }
+
+    #noBtn{
+            position: absolute;
+            }
